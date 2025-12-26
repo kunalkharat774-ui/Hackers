@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Kharat</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGc2bzFnc2htYnE2a3Rwa2F0azJ4MW9lc2IxODZidWdjZXdhbDA1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif">
+<img align ="right" alt= "coding" width="400"scr="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZjk5emtsMmJsNmxodjh5NWJmN2M4MWppNmdpOHIwcDd2bjMybTl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkharat774-ui&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkharat774-ui" /> </p>
 
